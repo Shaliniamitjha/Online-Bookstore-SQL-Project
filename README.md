@@ -13,8 +13,7 @@ The project includes database creation, table relationships, sample datasets, an
 - 👤 **Customers.csv** → Contains customer information like name, city, and country
 - 🛒 **Orders.csv** → Contains order details like book ID, customer ID, quantity, and total amount
 - 🧾 **Online Book_Store.sql** → Contains database schema, table creation, and SQL queries
-- 📄 **SQL Project Questions Day 30.pdf** → Contains basic and advanced SQL practice questions
-
+  
 ---
 
 ## 🧠 SQL Concepts Used
